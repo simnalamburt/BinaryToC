@@ -14,6 +14,5 @@
 #include <fstream>
 #include <iomanip>
 
-// 사용자 헤더
-#include <ErrorReporter.h>
-#include <RAII.h>
+// EasyD3D
+#include <EasyD3D/EasyD3D.h>

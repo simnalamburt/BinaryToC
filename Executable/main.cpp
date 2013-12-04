@@ -1,6 +1,8 @@
 #include "pch.h"
 
 using namespace std;
+using namespace EasyD3D;
+
 
 
 int APIENTRY WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
